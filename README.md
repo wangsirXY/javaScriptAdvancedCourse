@@ -2,7 +2,7 @@
 
 这个仓库是用来学习javaScript高级的
 
-## Vue基础
+## javaScript高级
 
 * [ ] 数据类型判断
   * [ ] typeof
