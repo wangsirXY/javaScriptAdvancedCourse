@@ -95,8 +95,7 @@ function getGuideSidebar() {
      * text：标题   children：二级菜单栏   link：地址 */
     {
       text: 'javaScript高级',
-      link: '/documents/javaScript/javaScript-advanced',
-      activeMatch: '^/config/',
+      link: '/documents/javaScript/javaScript-advanced'
     },
   ]
 }
